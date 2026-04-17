@@ -56,11 +56,13 @@ While industry profits fluctuate wildly over time, the average IMDb score remain
 
 This dashboard provides a high-level summary of total industry health, tracking $32.9bn in total profit. It uses KPI cards and rankings to identify top-performing movies and directors, establishing the financial scale of the dataset. 
 
+
 **Screenshot 2: Audience Trends & Creative Performance Dashboard**
 
 [![Audience Trends](Screenshot_Dashboard_2.png)](Screenshot_Dashboard_2.png)
 
 This page explores the "Social Sentiment" of the industry. It maps the relationship between social media hype (Facebook Likes) and critical reception (IMDb Scores). It highlights that viral popularity (Hype) does not always correlate with high critical ratings or financial success. 
+
 
 **Screenshot 3: Content Strategy & Global Trends Dashboard**
 
