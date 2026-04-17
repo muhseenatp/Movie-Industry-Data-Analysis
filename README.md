@@ -64,7 +64,7 @@ This page explores the "Social Sentiment" of the industry. It maps the relations
 
 **Screenshot 3: Content Strategy & Global Trends Dashboard**
 
-[![Content Trends](Screenshot_Dashboard_3.png)](Screenshot_Dashboard_3.png)
+[![Content Strategy](Screenshot_Dashboard_3.png)](Screenshot_Dashboard_3.png)
 
 The final page analyzes long-term industry shifts and genre efficiency. By using a Treemap for Profit Margin and an Area Chart for trends over time, this dashboard identifies which types of content offer the best return on investment and how profitability has evolved through the decades.
 
