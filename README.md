@@ -1,5 +1,4 @@
 # Movie-Industry-Data-Analysis
-
 ## 1. Project Overview
 2. This project is to analyze movie industry data to identify drivers of financial success and audience engagement. It delivers a comprehensive three-page Power BI business intelligence solution designed to decode the variables behind movie success by integrating financial metrics with social media engagement and critical sentiment. The objective of this project is to analyze a comprehensive IMDb dataset to uncover the relationship between financial investment, social media presence, and critical reception. The dashboard provides a three-page interactive experience to help stakeholders understand what makes a movie successful in the modern era.
 
