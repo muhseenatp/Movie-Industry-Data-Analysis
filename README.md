@@ -69,16 +69,16 @@ This page explores the "Social Sentiment" of the industry. It maps the relations
 The final page analyzes long-term industry shifts and genre efficiency. By using a Treemap for Profit Margin and an Area Chart for trends over time, this dashboard identifies which types of content offer the best return on investment and how profitability has evolved through the decades.
 
 ## 7. Files Included 
-•	“MiniProject-MovieMetadata.xlsx”– Original Dataset and Cleaned data
+•	“MovieMetaData.xlsx”– Original Dataset and Cleaned data
 
-•	“MiniProject_MovieMetaData.pbix”– Power BI Dashboard
+•	“MovieMetaData.pbix”– Power BI Dashboard
 
 •	“README.md”– Project description 
 
  ## 8. How to Use 
-•	Open “MiniProject-MovieMetadata.xlsx” to view the cleaned data. 
+•	Open “MovieMetaData.xlsx” to view the cleaned data. 
 
-•	Open “MiniProject_MovieMetaData.pbix” in Power BI Desktop to explore the visuals.
+•	Open “MovieMetaData.pbix” in Power BI Desktop to explore the visuals.
 
 •	Open “README.md” to understand the details about the project.
 
