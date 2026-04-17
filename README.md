@@ -48,22 +48,23 @@ The data shows that high spending doesn't guarantee success; mid-budget genres l
 **•	Quality Stability:**
 While industry profits fluctuate wildly over time, the average IMDb score remains remarkably stable at 6.46, showing that audience perception of quality is consistent regardless of market trends.
 
-## 6. Screenshots
- !Screenshot_Dashboard_1.png
- 
- !Screenshot_Dashboard_2.png
- 
- !Screenshot_Dashboard_3.png
+## 6. Screenshots 
  
 **Screenshot 1: Financial Performance Overview Dashboard**
+
+[![Financial Overview](Screenshot_Dashboard_1.png)](Screenshot_Dashboard_1.png)
 
 This dashboard provides a high-level summary of total industry health, tracking $32.9bn in total profit. It uses KPI cards and rankings to identify top-performing movies and directors, establishing the financial scale of the dataset. 
 
 **Screenshot 2: Audience Trends & Creative Performance Dashboard**
 
+[![Audience Trends](Screenshot_Dashboard_2.png)](Screenshot_Dashboard_2.png)
+
 This page explores the "Social Sentiment" of the industry. It maps the relationship between social media hype (Facebook Likes) and critical reception (IMDb Scores). It highlights that viral popularity (Hype) does not always correlate with high critical ratings or financial success. 
 
 **Screenshot 3: Content Strategy & Global Trends Dashboard**
+
+[![Content Trends](Screenshot_Dashboard_3.png)](Screenshot_Dashboard_3.png)
 
 The final page analyzes long-term industry shifts and genre efficiency. By using a Treemap for Profit Margin and an Area Chart for trends over time, this dashboard identifies which types of content offer the best return on investment and how profitability has evolved through the decades.
 
